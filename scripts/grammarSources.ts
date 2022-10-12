@@ -212,7 +212,7 @@ export const githubGrammarSources: [string, string][] = [
   ],
   [
     'rel',
-    'https://github.com/relationalai-oss/rel_vscode/blob/master/syntaxes/rel.tmLanguage.json'
+    'https://github.com/RelationalAI/relationalai-vscode/tree/main/extension/syntaxes/rel.tmLanguage.json'
   ],
   [
     'riscv',
